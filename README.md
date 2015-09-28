@@ -13,3 +13,7 @@ $ sudo apt-get install aqbanking-tools
 $ chmod 777 ./aqbanking -R
 ```
 
+## 3. run test
+```sh
+$ php test.php
+```
